@@ -1,7 +1,7 @@
 CREATE TABLE IF NOT EXISTS "trip" (
     vendor_id               text,
-    pickup_datetime         date,
-    dropoff_datetime        date,
+    pickup_datetime         timestamp,
+    dropoff_datetime        timestamp,
     passenger_count         integer,
     trip_distance           double precision,
     pickup_longitude        double precision,
