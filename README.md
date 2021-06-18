@@ -38,7 +38,7 @@ python tools/generate_analysis.py
 ```
 Outputs of the analysis will be located in `output/`.
 
-Storytelling `Analysis.html` file can be found in the root of this project. 
+Storytelling `Analysis.html` file can be found in the root of this project. (NOTE: use Google Chrome browser to visualize this file!)
 
 ## Notes
 
