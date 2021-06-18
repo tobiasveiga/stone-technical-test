@@ -23,7 +23,7 @@ First start Postgres and Python container with `./tools/start_containers.sh`
 To prepare everything, run the script `./tools/setup.sh`. This script will:
 - add schemas to the DB
 - install python requirements
-- preprocessthe  data
+- preprocess the  data
 - feed the processed data to the DB
 
 ## 3) Analyze
